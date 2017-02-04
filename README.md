@@ -1,6 +1,6 @@
 # Facebook Block Hosts File
 
-# Block Facebook IPv4
+## Block Facebook IPv4 ##
 ```
 127.0.0.1   facebook.com
 127.0.0.1   www.facebook.com
@@ -17,7 +17,7 @@
 127.0.0.1   apps.facebook.com
 ```
 
-# Block Facebook IPv6
+## Block Facebook IPv6 ##
 ```
 ::1     facebook.com
 ::1     www.facebook.com
