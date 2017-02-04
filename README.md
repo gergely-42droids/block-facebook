@@ -1,8 +1,8 @@
 # Facebook Block Hosts File
 
 # Block Facebook IPv4
-127.0.0.1     facebook.com
-127.0.0.1     www.facebook.com
+127.0.0.1   facebook.com
+127.0.0.1   www.facebook.com
 127.0.0.1   login.facebook.com
 127.0.0.1   www.login.facebook.com
 127.0.0.1   fbcdn.net
